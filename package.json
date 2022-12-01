@@ -1,0 +1,17 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "A group of javascript exercises",
+  "main": "index.js",
+  "scripts": {
+    "test-1-10": "jest 1-10/test/*"
+  },
+  "keywords": [
+    "execises"
+  ],
+  "author": "Peter Souza",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
