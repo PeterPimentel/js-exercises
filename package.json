@@ -4,7 +4,8 @@
   "description": "A group of javascript exercises",
   "main": "index.js",
   "scripts": {
-    "test-1-10": "jest 1-10/test/*"
+    "test-1-10": "jest 1-10/test/*",
+    "test-11-20": "jest 11-20/test/*"
   },
   "keywords": [
     "execises"
